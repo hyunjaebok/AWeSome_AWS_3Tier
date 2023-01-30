@@ -85,6 +85,6 @@
 <div align=center>
 <h4> 👈 back to main 👈 </h4>
 <a href="https://github.com/hyunjaebok"> 
-<img src="https://img.shields.io/endpoint?label=hyunjaebok&logo=github&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2hyunjaebok2%2F"/>
+<img src="https://img.shields.io/endpoint?label=hyunjaebok&logo=github&style=for-the-badge"/>
 </a>
 </div>
