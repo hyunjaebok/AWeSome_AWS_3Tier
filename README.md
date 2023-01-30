@@ -1,6 +1,6 @@
 # AWS 기반 Infra 구축
-     WEB-WAS-DB를 연동하여, 3-Tier 웹 서비스 운영
      AWS 기반 Infra 구축
+     WEB-WAS-DB를 연동하여, 3-Tier 웹 서비스 운영
      WEB-WAS 분리
      Tomcat의 Error Page 구현
      Prometheus, Grafana를 활용해 Resources Monitoring 구축
