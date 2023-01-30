@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 #### OS
 <img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
+#### Database
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <!--Mysql-->
 #### Monitoring
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"> <!--Prometheus--> 
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"> <!--Grafana--> 
