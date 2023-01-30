@@ -80,11 +80,6 @@
 
 </br>
 
-***
+---
 
-<div align=center>
-<h4> 👈 back to main 👈 </h4>
-<a href="https://github.com/hyunjaebok"> 
-<img src="https://img.shields.io/endpoint?label=hyunjaebok&logo=github&style=for-the-badge"/>
-</a>
-</div>
+### [👈 Go back 👈](https://github.com/hyunjaebok)
