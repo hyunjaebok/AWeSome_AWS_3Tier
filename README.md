@@ -1,1 +1,65 @@
-# AWeSome_AWS_3Tier
+# AWS 기반 Infra 구축
+     AWS 기반 Infra 구축
+     WEB/WAS 분리
+     Tomcat의 Error Page 구현
+     Prometheus, Grafana를 활용해 Resources Monitoring 구축
+     CloudWatch를 활용해 Application Monitoring 구축
+     SNS를 통한 Application Error 메일 알림 구현
+     Slack를 통한 각 서비스 알람 구현
+## 진행 기간
+- 2022.08.29 ~ 2022.09.16
+
+</br>
+
+## 팀 구성
+- Infra 구축 5명
+
+</br>
+
+## 사용 기술
+#### CSP
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
+#### Monitoring
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"> <!--Prometheus--> 
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"> <!--Grafana--> 
+#### Team Collabolation Tool
+square&logo=Notion&logoColor=white"> <!--Notion-->
+<img src="https://img.shields.io/badge/Drawio-000000?style=flat-square&logo=Drawio&logoColor=white"> <!--Draw.io-->
+
+</br>
+
+## 상세 내용 
+### 고객 요구사항
+![image](https://user-images.githubusercontent.com/110655823/215494913-a04785ef-69bf-483b-a977-4ba859f66757.png)
+### Infra Architecture
+![image](https://user-images.githubusercontent.com/110655823/215495265-30c7cdd6-5be8-4d70-b560-f72a45b5dddc.png)
+### Security Group
+![image](https://user-images.githubusercontent.com/110655823/215495468-ceb8bf50-58d9-4b1e-b9ec-9efeb5cb34fa.png)
+
+### - [내부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
+### - [외부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
+
+
+</br>
+
+## 구축 과정
+### - Notion Link(https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
+
+</br>
+
+## 담당한 업무
+- AWS Infra 구축
+    - IAM, VPC, EC2, RDS, EFS, ALB, NLB, AS, ACM, Route53, CDN, CloudWatch, SNS
+- EFS 구축
+    - WEB/WAS Resoures의 저장과 관리
+    - WEB/WAS Resoures를 각각 독립된 EFS로 관리
+- WEB/WAS를 분리
+    - 정적인 컨텐츠는 WEB에서 처리
+    - 동적인 컨텐츠는 WAS에서 처리
+- WAS의 Error Page를 구현
+    - Tomcat Server가 down 될 시, 담당자 연락처가 나오도록 설정
+- CloudFront 구축
+    - 정적 및 동적 웹 컨텐츠를 고객에게 더 빠르게 배포
+- Route53과 ACM 구축
+    - 고객들이 쉽고 빠르게 웹 서비스를 이용
+    - HTTPS Protocol를 사용하여 보안을 강화
