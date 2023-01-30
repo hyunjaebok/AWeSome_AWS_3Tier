@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"> <!--Prometheus--> 
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"> <!--Grafana--> 
 #### Team Collabolation Tool
-square&logo=Notion&logoColor=white"> <!--Notion-->
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <!--Notion-->
 <img src="https://img.shields.io/badge/Drawio-000000?style=flat-square&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 </br>
@@ -36,8 +36,8 @@ square&logo=Notion&logoColor=white"> <!--Notion-->
 ### Security Group
 ![image](https://user-images.githubusercontent.com/110655823/215495468-ceb8bf50-58d9-4b1e-b9ec-9efeb5cb34fa.png)
 
-### - [내부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/application)
-### - [외부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_FinalProject/tree/main/terraform)
+### - [내부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/내부%20인프라)
+### - [외부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/외부%20인프라)
 
 
 </br>
