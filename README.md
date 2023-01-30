@@ -7,17 +7,17 @@
      CloudWatch를 활용해 Application Monitoring 구축
      SNS를 통한 Application Error 메일 알림 구현
      Slack 통한 각 서비스 알람 구현
-## 진행 기간
+## 📆 진행 기간
 - 2022.08.29 ~ 2022.09.16
 
 </br>
 
-## 팀 구성
+## 🧑‍🤝‍🧑 팀 구성
 - Infra 구축 5명
 
 </br>
 
-## 사용 기술
+## 🛠 사용 기술
 #### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 #### OS
@@ -35,7 +35,7 @@
 
 </br>
 
-## 담당한 업무
+## 💁‍♂️ 담당 업무
 - AWS Infra 구축
     - IAM, VPC, EC2, RDS, EFS, ALB, NLB, AS, ACM, Route53, CDN, CloudWatch, SNS
 - EFS 구축
@@ -54,7 +54,7 @@
 
 </br>
 
-## 상세 내용 
+## 📖 상세 내용 
 ### 고객 요구사항
 ![image](https://user-images.githubusercontent.com/110655823/215494913-a04785ef-69bf-483b-a977-4ba859f66757.png)
 >- 고가용성, 실시간 모니터링, Error Page를 구성하여 프로젝트 진행
@@ -75,7 +75,7 @@
 
 </br>
 
-## 구축 과정
+## 🔗 구축 과정
 ### - Notion Link(https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
 
 </br>
