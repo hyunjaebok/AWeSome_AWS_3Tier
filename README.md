@@ -34,6 +34,25 @@
 
 </br>
 
+## 담당한 업무
+- AWS Infra 구축
+    - IAM, VPC, EC2, RDS, EFS, ALB, NLB, AS, ACM, Route53, CDN, CloudWatch, SNS
+- EFS 구축
+    - WEB/WAS Resoures의 저장과 관리
+    - WEB/WAS Resoures를 각각 독립된 EFS로 관리
+- WEB/WAS를 분리
+    - 정적인 컨텐츠는 WEB에서 처리
+    - 동적인 컨텐츠는 WAS에서 처리
+- WAS의 Error Page를 구현
+    - Tomcat Server가 down 될 시, 담당자 연락처가 나오도록 설정
+- CloudFront 구축
+    - 정적 및 동적 웹 컨텐츠를 고객에게 더 빠르게 배포
+- Route53과 ACM 구축
+    - 고객들이 쉽고 빠르게 웹 서비스를 이용
+    - HTTPS Protocol를 사용하여 보안을 강화
+
+</br>
+
 ## 상세 내용 
 ### 고객 요구사항
 ![image](https://user-images.githubusercontent.com/110655823/215494913-a04785ef-69bf-483b-a977-4ba859f66757.png)
@@ -57,22 +76,3 @@
 
 ## 구축 과정
 ### - Notion Link(https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
-
-</br>
-
-## 담당한 업무
-- AWS Infra 구축
-    - IAM, VPC, EC2, RDS, EFS, ALB, NLB, AS, ACM, Route53, CDN, CloudWatch, SNS
-- EFS 구축
-    - WEB/WAS Resoures의 저장과 관리
-    - WEB/WAS Resoures를 각각 독립된 EFS로 관리
-- WEB/WAS를 분리
-    - 정적인 컨텐츠는 WEB에서 처리
-    - 동적인 컨텐츠는 WAS에서 처리
-- WAS의 Error Page를 구현
-    - Tomcat Server가 down 될 시, 담당자 연락처가 나오도록 설정
-- CloudFront 구축
-    - 정적 및 동적 웹 컨텐츠를 고객에게 더 빠르게 배포
-- Route53과 ACM 구축
-    - 고객들이 쉽고 빠르게 웹 서비스를 이용
-    - HTTPS Protocol를 사용하여 보안을 강화
