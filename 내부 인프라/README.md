@@ -22,4 +22,4 @@
 
 ---
 
-### [👈 Go back 👈](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject)
+### [👈 Go back](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject)
