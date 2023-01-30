@@ -31,8 +31,15 @@
 ## 상세 내용 
 ### 고객 요구사항
 ![image](https://user-images.githubusercontent.com/110655823/215494913-a04785ef-69bf-483b-a977-4ba859f66757.png)
+>- 고가용성, 실시간 모니터링, Error Page를 구성하여 프로젝트 진행
 ### Infra Architecture
 ![image](https://user-images.githubusercontent.com/110655823/215495265-30c7cdd6-5be8-4d70-b560-f72a45b5dddc.png)
+>- 관리자는 bastion을 통해 웹 서비스를 운영 및 관리
+>- 고객은 route53에 등록된 도메인을 통해 웹 서비스 이용
+>- EFS를 사용하여 WEB/WAS 리소스들의 저장과 관리
+>- Application Monitoring은 CloudWatch로 로그를 수집 및 필터링 → Error 발생 시 SNS을 통해 메일 알림
+>- Resources Monitoring은 Node-Exporter로 메트릭 정보를 수집 → Prometheus TSDB로 전달 → Grafana를 통해 수집된 매트릭을 시각화
+
 ### Security Group
 ![image](https://user-images.githubusercontent.com/110655823/215495468-ceb8bf50-58d9-4b1e-b9ec-9efeb5cb34fa.png)
 
