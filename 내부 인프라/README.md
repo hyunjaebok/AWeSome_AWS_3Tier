@@ -12,11 +12,17 @@
 > - 기능을 분리하여 서버 부하 방지
 > - 물리적으로 분리하여 보안 강화
 
+#### WEB/WAS 분리 시연 영상
+![정적인리소스로그확인](https://user-images.githubusercontent.com/110655823/216241065-0ed7e01a-c7bb-4e5b-941f-68c17de6cd28.gif)
+
 </br>
 
 ### Error Page 처리
 ![image](https://user-images.githubusercontent.com/110655823/215500665-e1515b53-73b2-4f65-8746-bb319c6513fd.png)
 > - Tomcat 서비스 불능 상황의 대비
+
+#### Error Page 처리 시연 영상
+![Tomcat error page](https://user-images.githubusercontent.com/110655823/216241228-a83e995b-e3ea-4324-9868-cd28d61afd18.gif)
 
 </br>
 
