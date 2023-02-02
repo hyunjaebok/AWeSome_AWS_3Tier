@@ -70,6 +70,14 @@
 ### Security Group
 ![image](https://user-images.githubusercontent.com/110655823/215495468-ceb8bf50-58d9-4b1e-b9ec-9efeb5cb34fa.png)
 
+#### AutoScale 시연영상
+![AutoScale](https://user-images.githubusercontent.com/110655823/216241344-54f025be-222e-46e9-9fe6-9e60fe060731.gif)
+
+#### DB FailOver 시연영상
+![DB FailOver](https://user-images.githubusercontent.com/110655823/216241400-42e9588a-e456-4bba-b2bb-630d883d79e1.gif)
+
+</br>
+
 ### - [내부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/내부%20인프라)
 ### - [외부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/외부%20인프라)
 
