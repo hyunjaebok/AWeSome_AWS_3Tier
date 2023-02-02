@@ -14,7 +14,7 @@
 </br>
 
 ### CloudWatch 구축
-![image](https://user-images.githubusercontent.com/110655823/215500665-e1515b53-73b2-4f65-8746-bb319c6513fd.png)
+![image](https://user-images.githubusercontent.com/110655823/216391828-447b25a2-e287-47cd-a06d-d3dab8113c4e.png)
 > - 웹 서비스의 Error 발생 시, 메일을 통한 실시간 알림
 
 </br>
