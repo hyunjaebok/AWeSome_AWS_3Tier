@@ -63,6 +63,7 @@
 ![image](https://user-images.githubusercontent.com/110655823/215495265-30c7cdd6-5be8-4d70-b560-f72a45b5dddc.png)
 >- 관리자는 bastion을 통해 웹 서비스를 운영 및 관리
 >- 고객은 route53에 등록된 도메인을 통해 웹 서비스 이용
+> - RDS 이중화 구성
 >- EFS를 사용하여 WEB/WAS 리소스들의 저장과 관리
 >- Application Monitoring은 CloudWatch로 로그를 수집 및 필터링 → Error 발생 시 SNS을 통해 메일 알림
 >- Resources Monitoring은 Node-Exporter로 메트릭 정보를 수집 → Prometheus TSDB로 전달 → Grafana를 통해 수집된 매트릭을 시각화
