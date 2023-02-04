@@ -22,7 +22,6 @@
 > - Tomcat 서비스 불능 상황의 대비
 
 #### Error Page 처리 시연 영상
-![Tomcat error page](https://user-images.githubusercontent.com/110655823/216241228-a83e995b-e3ea-4324-9868-cd28d61afd18.gif)
 
 </br>
 
