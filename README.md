@@ -80,14 +80,14 @@
 
 </br>
 
-### - [내부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/내부%20인프라)
-### - [외부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/외부%20인프라)
+### [- 내부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/내부%20인프라)
+### [- 외부 인프라](https://github.com/hyunjaebok/AWeSome_AWS_3Tier_SemiProject/tree/main/외부%20인프라)
 
 
 </br>
 
 ## 🔗 구축 과정
-### - [Notion Link](https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
+### [- Notion Link](https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
 
 </br>
 
