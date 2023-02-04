@@ -74,9 +74,11 @@
 
 #### AutoScale 시연영상
 ![AutoScale](https://user-images.githubusercontent.com/110655823/216241344-54f025be-222e-46e9-9fe6-9e60fe060731.gif)
+> - Stress Test(사용자 접속 트래픽)을 실시했을 때, EC2 CPU 사용량이 증가 후 새로운 EC2가 생성 확인
 
 #### DB FailOver 시연영상
 ![DB FailOver](https://user-images.githubusercontent.com/110655823/216241400-42e9588a-e456-4bba-b2bb-630d883d79e1.gif)
+> RDS를 장애조치롤 재부팅했을 때, 정상적으로 DB가 작동하는 것을 확인
 
 </br>
 
