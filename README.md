@@ -87,7 +87,7 @@
 </br>
 
 ## 🔗 구축 과정
-### - Notion Link(https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
+### - [Notion Link](https://www.notion.so/AWS-Infra-8a62fe0dcd8c488fbb6655e0f5f624b3)
 
 </br>
 
