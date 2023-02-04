@@ -14,6 +14,7 @@
 
 #### WEB/WAS 분리 시연 영상
 ![정적인리소스로그확인](https://user-images.githubusercontent.com/110655823/216241065-0ed7e01a-c7bb-4e5b-941f-68c17de6cd28.gif)
+> - 웹 서비스 이용 시, apache log에서 정적인 컨텐츠 경로가 Web(EC2)의 파일 경로 확인
 
 </br>
 
