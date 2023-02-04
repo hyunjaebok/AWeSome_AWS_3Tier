@@ -18,7 +18,7 @@
 </br>
 
 ### Error Page 처리
-
+![image](https://user-images.githubusercontent.com/110655823/216744606-e34edafc-9cdd-4830-bc20-53089ba0e254.png)
 > - Tomcat 서비스 불능 상황의 대비
 
 #### Error Page 처리 시연 영상
