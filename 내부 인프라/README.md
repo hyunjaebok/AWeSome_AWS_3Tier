@@ -23,6 +23,9 @@
 > - Tomcat 서비스 불능 상황의 대비
 
 #### Error Page 처리 시연 영상
+<img src="https://user-images.githubusercontent.com/110655823/216749807-593788c8-b3f3-4f8c-be8f-fa0c2248069f.gif" width="600" height="350">
+
+> - 정상 작동중인 웹 서비스에서 Tomcat를 중지 시켰을 때, Error Page가 나오는 것을 확인
 
 </br>
 
