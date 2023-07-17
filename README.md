@@ -6,7 +6,6 @@
      Prometheus, Grafana를 활용해 Resources Monitoring 구축
      CloudWatch를 활용해 Application Monitoring 구축
      SNS를 통한 Application Error 메일 알림 구현
-     Slack 통한 각 서비스 알람 구현
      
 ## 📆 진행 기간
 - 2022.08.29 ~ 2022.09.16 (총 19일)
